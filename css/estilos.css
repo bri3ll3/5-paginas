@@ -1,0 +1,41 @@
+body 
+{
+    text-align: center;
+    background-image: url(../images/fondo.jpg);
+}
+
+h1 
+{
+    background-color: rgb(192, 191, 191);
+    color: white;
+    border-left: solid red 11px;
+    padding: 5px;
+    font-family: 'Bodoni' , 'Gill Sans';
+    
+}
+
+img 
+{
+    border: solid black 5px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px black;
+    width: 600px;
+    height: 500px;
+    
+}
+
+ul 
+{
+    list-style: none;
+    text-align: center;
+    padding-right: 40px;
+}
+
+li 
+{
+    display: inline-block;
+    gap: 8px;
+    border: solid black 2px;
+}
+
+
